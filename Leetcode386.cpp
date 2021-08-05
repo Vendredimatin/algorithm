@@ -29,7 +29,7 @@ vector<int> lexicalOrder(int n) {
     return ans;
 }
 
-int main(){
+int main386(){
     lexicalOrder(103);
     return 0;
 }
