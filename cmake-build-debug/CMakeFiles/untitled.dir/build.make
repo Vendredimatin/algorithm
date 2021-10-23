@@ -779,6 +779,97 @@ CMakeFiles/untitled.dir/Leetcode386.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Leetcode386.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/liuhanyi/Desktop/courseStudy/code/algorithm/C++/algorithm/Leetcode386.cpp -o CMakeFiles/untitled.dir/Leetcode386.cpp.s
 
+CMakeFiles/untitled.dir/Leetcode392.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Leetcode392.cpp.o: ../Leetcode392.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/liuhanyi/Desktop/courseStudy/code/algorithm/C++/algorithm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_55) "Building CXX object CMakeFiles/untitled.dir/Leetcode392.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/Leetcode392.cpp.o -c /Users/liuhanyi/Desktop/courseStudy/code/algorithm/C++/algorithm/Leetcode392.cpp
+
+CMakeFiles/untitled.dir/Leetcode392.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Leetcode392.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/liuhanyi/Desktop/courseStudy/code/algorithm/C++/algorithm/Leetcode392.cpp > CMakeFiles/untitled.dir/Leetcode392.cpp.i
+
+CMakeFiles/untitled.dir/Leetcode392.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Leetcode392.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/liuhanyi/Desktop/courseStudy/code/algorithm/C++/algorithm/Leetcode392.cpp -o CMakeFiles/untitled.dir/Leetcode392.cpp.s
+
+CMakeFiles/untitled.dir/Leetcode394.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Leetcode394.cpp.o: ../Leetcode394.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/liuhanyi/Desktop/courseStudy/code/algorithm/C++/algorithm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_56) "Building CXX object CMakeFiles/untitled.dir/Leetcode394.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/Leetcode394.cpp.o -c /Users/liuhanyi/Desktop/courseStudy/code/algorithm/C++/algorithm/Leetcode394.cpp
+
+CMakeFiles/untitled.dir/Leetcode394.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Leetcode394.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/liuhanyi/Desktop/courseStudy/code/algorithm/C++/algorithm/Leetcode394.cpp > CMakeFiles/untitled.dir/Leetcode394.cpp.i
+
+CMakeFiles/untitled.dir/Leetcode394.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Leetcode394.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/liuhanyi/Desktop/courseStudy/code/algorithm/C++/algorithm/Leetcode394.cpp -o CMakeFiles/untitled.dir/Leetcode394.cpp.s
+
+CMakeFiles/untitled.dir/Leetcode396.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Leetcode396.cpp.o: ../Leetcode396.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/liuhanyi/Desktop/courseStudy/code/algorithm/C++/algorithm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_57) "Building CXX object CMakeFiles/untitled.dir/Leetcode396.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/Leetcode396.cpp.o -c /Users/liuhanyi/Desktop/courseStudy/code/algorithm/C++/algorithm/Leetcode396.cpp
+
+CMakeFiles/untitled.dir/Leetcode396.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Leetcode396.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/liuhanyi/Desktop/courseStudy/code/algorithm/C++/algorithm/Leetcode396.cpp > CMakeFiles/untitled.dir/Leetcode396.cpp.i
+
+CMakeFiles/untitled.dir/Leetcode396.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Leetcode396.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/liuhanyi/Desktop/courseStudy/code/algorithm/C++/algorithm/Leetcode396.cpp -o CMakeFiles/untitled.dir/Leetcode396.cpp.s
+
+CMakeFiles/untitled.dir/Leetcode397.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Leetcode397.cpp.o: ../Leetcode397.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/liuhanyi/Desktop/courseStudy/code/algorithm/C++/algorithm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_58) "Building CXX object CMakeFiles/untitled.dir/Leetcode397.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/Leetcode397.cpp.o -c /Users/liuhanyi/Desktop/courseStudy/code/algorithm/C++/algorithm/Leetcode397.cpp
+
+CMakeFiles/untitled.dir/Leetcode397.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Leetcode397.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/liuhanyi/Desktop/courseStudy/code/algorithm/C++/algorithm/Leetcode397.cpp > CMakeFiles/untitled.dir/Leetcode397.cpp.i
+
+CMakeFiles/untitled.dir/Leetcode397.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Leetcode397.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/liuhanyi/Desktop/courseStudy/code/algorithm/C++/algorithm/Leetcode397.cpp -o CMakeFiles/untitled.dir/Leetcode397.cpp.s
+
+CMakeFiles/untitled.dir/Leetcode400.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Leetcode400.cpp.o: ../Leetcode400.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/liuhanyi/Desktop/courseStudy/code/algorithm/C++/algorithm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_59) "Building CXX object CMakeFiles/untitled.dir/Leetcode400.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/Leetcode400.cpp.o -c /Users/liuhanyi/Desktop/courseStudy/code/algorithm/C++/algorithm/Leetcode400.cpp
+
+CMakeFiles/untitled.dir/Leetcode400.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Leetcode400.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/liuhanyi/Desktop/courseStudy/code/algorithm/C++/algorithm/Leetcode400.cpp > CMakeFiles/untitled.dir/Leetcode400.cpp.i
+
+CMakeFiles/untitled.dir/Leetcode400.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Leetcode400.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/liuhanyi/Desktop/courseStudy/code/algorithm/C++/algorithm/Leetcode400.cpp -o CMakeFiles/untitled.dir/Leetcode400.cpp.s
+
+CMakeFiles/untitled.dir/Leetcode399.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Leetcode399.cpp.o: ../Leetcode399.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/liuhanyi/Desktop/courseStudy/code/algorithm/C++/algorithm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_60) "Building CXX object CMakeFiles/untitled.dir/Leetcode399.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/Leetcode399.cpp.o -c /Users/liuhanyi/Desktop/courseStudy/code/algorithm/C++/algorithm/Leetcode399.cpp
+
+CMakeFiles/untitled.dir/Leetcode399.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Leetcode399.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/liuhanyi/Desktop/courseStudy/code/algorithm/C++/algorithm/Leetcode399.cpp > CMakeFiles/untitled.dir/Leetcode399.cpp.i
+
+CMakeFiles/untitled.dir/Leetcode399.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Leetcode399.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/liuhanyi/Desktop/courseStudy/code/algorithm/C++/algorithm/Leetcode399.cpp -o CMakeFiles/untitled.dir/Leetcode399.cpp.s
+
+CMakeFiles/untitled.dir/Leetcode402.cpp.o: CMakeFiles/untitled.dir/flags.make
+CMakeFiles/untitled.dir/Leetcode402.cpp.o: ../Leetcode402.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/liuhanyi/Desktop/courseStudy/code/algorithm/C++/algorithm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_61) "Building CXX object CMakeFiles/untitled.dir/Leetcode402.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled.dir/Leetcode402.cpp.o -c /Users/liuhanyi/Desktop/courseStudy/code/algorithm/C++/algorithm/Leetcode402.cpp
+
+CMakeFiles/untitled.dir/Leetcode402.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled.dir/Leetcode402.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/liuhanyi/Desktop/courseStudy/code/algorithm/C++/algorithm/Leetcode402.cpp > CMakeFiles/untitled.dir/Leetcode402.cpp.i
+
+CMakeFiles/untitled.dir/Leetcode402.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled.dir/Leetcode402.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/liuhanyi/Desktop/courseStudy/code/algorithm/C++/algorithm/Leetcode402.cpp -o CMakeFiles/untitled.dir/Leetcode402.cpp.s
+
 # Object files for target untitled
 untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/main.cpp.o" \
@@ -834,7 +925,14 @@ untitled_OBJECTS = \
 "CMakeFiles/untitled.dir/luogu/P1825.cpp.o" \
 "CMakeFiles/untitled.dir/Leetcode887.cpp.o" \
 "CMakeFiles/untitled.dir/Leetcode375.cpp.o" \
-"CMakeFiles/untitled.dir/Leetcode386.cpp.o"
+"CMakeFiles/untitled.dir/Leetcode386.cpp.o" \
+"CMakeFiles/untitled.dir/Leetcode392.cpp.o" \
+"CMakeFiles/untitled.dir/Leetcode394.cpp.o" \
+"CMakeFiles/untitled.dir/Leetcode396.cpp.o" \
+"CMakeFiles/untitled.dir/Leetcode397.cpp.o" \
+"CMakeFiles/untitled.dir/Leetcode400.cpp.o" \
+"CMakeFiles/untitled.dir/Leetcode399.cpp.o" \
+"CMakeFiles/untitled.dir/Leetcode402.cpp.o"
 
 # External object files for target untitled
 untitled_EXTERNAL_OBJECTS =
@@ -893,9 +991,16 @@ untitled: CMakeFiles/untitled.dir/luogu/P1825.cpp.o
 untitled: CMakeFiles/untitled.dir/Leetcode887.cpp.o
 untitled: CMakeFiles/untitled.dir/Leetcode375.cpp.o
 untitled: CMakeFiles/untitled.dir/Leetcode386.cpp.o
+untitled: CMakeFiles/untitled.dir/Leetcode392.cpp.o
+untitled: CMakeFiles/untitled.dir/Leetcode394.cpp.o
+untitled: CMakeFiles/untitled.dir/Leetcode396.cpp.o
+untitled: CMakeFiles/untitled.dir/Leetcode397.cpp.o
+untitled: CMakeFiles/untitled.dir/Leetcode400.cpp.o
+untitled: CMakeFiles/untitled.dir/Leetcode399.cpp.o
+untitled: CMakeFiles/untitled.dir/Leetcode402.cpp.o
 untitled: CMakeFiles/untitled.dir/build.make
 untitled: CMakeFiles/untitled.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/liuhanyi/Desktop/courseStudy/code/algorithm/C++/algorithm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_55) "Linking CXX executable untitled"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/liuhanyi/Desktop/courseStudy/code/algorithm/C++/algorithm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_62) "Linking CXX executable untitled"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/untitled.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

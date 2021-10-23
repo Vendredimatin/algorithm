@@ -980,6 +980,114 @@ Leetcode386.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Leetcode386.cpp.s
 .PHONY : Leetcode386.cpp.s
 
+Leetcode392.o: Leetcode392.cpp.o
+
+.PHONY : Leetcode392.o
+
+# target to build an object file
+Leetcode392.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Leetcode392.cpp.o
+.PHONY : Leetcode392.cpp.o
+
+Leetcode392.i: Leetcode392.cpp.i
+
+.PHONY : Leetcode392.i
+
+# target to preprocess a source file
+Leetcode392.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Leetcode392.cpp.i
+.PHONY : Leetcode392.cpp.i
+
+Leetcode392.s: Leetcode392.cpp.s
+
+.PHONY : Leetcode392.s
+
+# target to generate assembly for a file
+Leetcode392.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Leetcode392.cpp.s
+.PHONY : Leetcode392.cpp.s
+
+Leetcode394.o: Leetcode394.cpp.o
+
+.PHONY : Leetcode394.o
+
+# target to build an object file
+Leetcode394.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Leetcode394.cpp.o
+.PHONY : Leetcode394.cpp.o
+
+Leetcode394.i: Leetcode394.cpp.i
+
+.PHONY : Leetcode394.i
+
+# target to preprocess a source file
+Leetcode394.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Leetcode394.cpp.i
+.PHONY : Leetcode394.cpp.i
+
+Leetcode394.s: Leetcode394.cpp.s
+
+.PHONY : Leetcode394.s
+
+# target to generate assembly for a file
+Leetcode394.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Leetcode394.cpp.s
+.PHONY : Leetcode394.cpp.s
+
+Leetcode396.o: Leetcode396.cpp.o
+
+.PHONY : Leetcode396.o
+
+# target to build an object file
+Leetcode396.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Leetcode396.cpp.o
+.PHONY : Leetcode396.cpp.o
+
+Leetcode396.i: Leetcode396.cpp.i
+
+.PHONY : Leetcode396.i
+
+# target to preprocess a source file
+Leetcode396.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Leetcode396.cpp.i
+.PHONY : Leetcode396.cpp.i
+
+Leetcode396.s: Leetcode396.cpp.s
+
+.PHONY : Leetcode396.s
+
+# target to generate assembly for a file
+Leetcode396.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Leetcode396.cpp.s
+.PHONY : Leetcode396.cpp.s
+
+Leetcode397.o: Leetcode397.cpp.o
+
+.PHONY : Leetcode397.o
+
+# target to build an object file
+Leetcode397.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Leetcode397.cpp.o
+.PHONY : Leetcode397.cpp.o
+
+Leetcode397.i: Leetcode397.cpp.i
+
+.PHONY : Leetcode397.i
+
+# target to preprocess a source file
+Leetcode397.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Leetcode397.cpp.i
+.PHONY : Leetcode397.cpp.i
+
+Leetcode397.s: Leetcode397.cpp.s
+
+.PHONY : Leetcode397.s
+
+# target to generate assembly for a file
+Leetcode397.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Leetcode397.cpp.s
+.PHONY : Leetcode397.cpp.s
+
 Leetcode398.o: Leetcode398.cpp.o
 
 .PHONY : Leetcode398.o
@@ -1006,6 +1114,87 @@ Leetcode398.s: Leetcode398.cpp.s
 Leetcode398.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Leetcode398.cpp.s
 .PHONY : Leetcode398.cpp.s
+
+Leetcode399.o: Leetcode399.cpp.o
+
+.PHONY : Leetcode399.o
+
+# target to build an object file
+Leetcode399.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Leetcode399.cpp.o
+.PHONY : Leetcode399.cpp.o
+
+Leetcode399.i: Leetcode399.cpp.i
+
+.PHONY : Leetcode399.i
+
+# target to preprocess a source file
+Leetcode399.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Leetcode399.cpp.i
+.PHONY : Leetcode399.cpp.i
+
+Leetcode399.s: Leetcode399.cpp.s
+
+.PHONY : Leetcode399.s
+
+# target to generate assembly for a file
+Leetcode399.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Leetcode399.cpp.s
+.PHONY : Leetcode399.cpp.s
+
+Leetcode400.o: Leetcode400.cpp.o
+
+.PHONY : Leetcode400.o
+
+# target to build an object file
+Leetcode400.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Leetcode400.cpp.o
+.PHONY : Leetcode400.cpp.o
+
+Leetcode400.i: Leetcode400.cpp.i
+
+.PHONY : Leetcode400.i
+
+# target to preprocess a source file
+Leetcode400.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Leetcode400.cpp.i
+.PHONY : Leetcode400.cpp.i
+
+Leetcode400.s: Leetcode400.cpp.s
+
+.PHONY : Leetcode400.s
+
+# target to generate assembly for a file
+Leetcode400.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Leetcode400.cpp.s
+.PHONY : Leetcode400.cpp.s
+
+Leetcode402.o: Leetcode402.cpp.o
+
+.PHONY : Leetcode402.o
+
+# target to build an object file
+Leetcode402.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Leetcode402.cpp.o
+.PHONY : Leetcode402.cpp.o
+
+Leetcode402.i: Leetcode402.cpp.i
+
+.PHONY : Leetcode402.i
+
+# target to preprocess a source file
+Leetcode402.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Leetcode402.cpp.i
+.PHONY : Leetcode402.cpp.i
+
+Leetcode402.s: Leetcode402.cpp.s
+
+.PHONY : Leetcode402.s
+
+# target to generate assembly for a file
+Leetcode402.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/untitled.dir/build.make CMakeFiles/untitled.dir/Leetcode402.cpp.s
+.PHONY : Leetcode402.cpp.s
 
 Leetcode85.o: Leetcode85.cpp.o
 
@@ -1703,9 +1892,30 @@ help:
 	@echo "... Leetcode386.o"
 	@echo "... Leetcode386.i"
 	@echo "... Leetcode386.s"
+	@echo "... Leetcode392.o"
+	@echo "... Leetcode392.i"
+	@echo "... Leetcode392.s"
+	@echo "... Leetcode394.o"
+	@echo "... Leetcode394.i"
+	@echo "... Leetcode394.s"
+	@echo "... Leetcode396.o"
+	@echo "... Leetcode396.i"
+	@echo "... Leetcode396.s"
+	@echo "... Leetcode397.o"
+	@echo "... Leetcode397.i"
+	@echo "... Leetcode397.s"
 	@echo "... Leetcode398.o"
 	@echo "... Leetcode398.i"
 	@echo "... Leetcode398.s"
+	@echo "... Leetcode399.o"
+	@echo "... Leetcode399.i"
+	@echo "... Leetcode399.s"
+	@echo "... Leetcode400.o"
+	@echo "... Leetcode400.i"
+	@echo "... Leetcode400.s"
+	@echo "... Leetcode402.o"
+	@echo "... Leetcode402.i"
+	@echo "... Leetcode402.s"
 	@echo "... Leetcode85.o"
 	@echo "... Leetcode85.i"
 	@echo "... Leetcode85.s"
