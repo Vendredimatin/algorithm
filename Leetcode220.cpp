@@ -2,6 +2,7 @@
 // Created by 刘汉乙 on 2020/9/18.
 //
 #include<vector>
+#include<math.h>
 using namespace std;
 
 bool containsNearbyAlmostDuplicate(vector<int>& nums, int k, int t) {

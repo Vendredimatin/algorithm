@@ -71,4 +71,5 @@ string shortestPalindrome(string s) {
 int main214(){
     string s =  "abcd";
     shortestPalindrome(s);
+    return 0;
 }

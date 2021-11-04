@@ -4,6 +4,8 @@
 #include<vector>
 #include<string>
 #include<unordered_set>
+#include <cstring>
+#include<algorithm>
 using namespace std;
 
 struct TrieNode{

@@ -5,6 +5,7 @@
 #include<vector>
 #include<set>
 #include<unordered_map>
+#include<algorithm>
 using namespace std;
 
 vector<string> dfs(vector<string> temp, unordered_map<string, vector<string>> map, string from, int n){

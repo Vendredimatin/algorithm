@@ -36,4 +36,5 @@ int main114(){
     //TreeNode* node2 = new TreeNode(-3, node3);
     TreeNode* node1 = new TreeNode(1, node2, node5);
     flatten(node1);
+    return 0;
 }

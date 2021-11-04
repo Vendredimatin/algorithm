@@ -6,7 +6,7 @@
 #include<queue>
 #include<unordered_set>
 #include <iostream>
-
+#include<math.h>
 using namespace std;
 
 bool isPrime(int num){

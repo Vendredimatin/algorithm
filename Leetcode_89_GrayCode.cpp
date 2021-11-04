@@ -5,6 +5,7 @@
 #include<vector>
 #include<algorithm>
 #include<unordered_set>
+#include<math.h>
 using namespace std;
 
 int binaryToDemical(string str){
