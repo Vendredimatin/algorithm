@@ -82,4 +82,6 @@ int main1219(){
     }
 
     cout << ans1219.size() << endl;
+
+    return 0;
 }

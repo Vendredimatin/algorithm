@@ -78,4 +78,5 @@ int main1825(){
     }
 
     cout << ans1825;
+    return 0;
 }

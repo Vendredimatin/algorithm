@@ -38,7 +38,7 @@ string removeKdigits(string num, int k) {
     return ans;
 }
 
-int main(){
+int main402(){
     cout << removeKdigits("10200",1);
     return 0;
 }

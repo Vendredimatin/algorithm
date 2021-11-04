@@ -58,4 +58,5 @@ int combinationSum4(vector<int>& nums, int target) {
 int main377(){
     vector<int> nums({1,2,3});
     combinationSum4(nums, 35);
+    return 0;
 }

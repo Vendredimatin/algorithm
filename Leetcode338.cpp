@@ -3,6 +3,7 @@
 //
 
 #include<vector>
+#include<math.h>
 using namespace std;
 vector<int> countBits(int num) {
     vector<int> dp(num+1);

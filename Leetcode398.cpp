@@ -47,5 +47,6 @@ int main398(){
     cout << " 3 count:" << record[1] << endl;
     cout << " 4 count:" << record[2] << endl;
     cout << " 5 count:" << record[3] << endl;
+    return 0;
 }
 
