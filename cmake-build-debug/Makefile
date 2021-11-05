@@ -168,33 +168,6 @@ BIT.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/BIT.cpp.s
 .PHONY : BIT.cpp.s
 
-Leetcode106.obj: Leetcode106.cpp.obj
-
-.PHONY : Leetcode106.obj
-
-# target to build an object file
-Leetcode106.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Leetcode106.cpp.obj
-.PHONY : Leetcode106.cpp.obj
-
-Leetcode106.i: Leetcode106.cpp.i
-
-.PHONY : Leetcode106.i
-
-# target to preprocess a source file
-Leetcode106.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Leetcode106.cpp.i
-.PHONY : Leetcode106.cpp.i
-
-Leetcode106.s: Leetcode106.cpp.s
-
-.PHONY : Leetcode106.s
-
-# target to generate assembly for a file
-Leetcode106.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Leetcode106.cpp.s
-.PHONY : Leetcode106.cpp.s
-
 Leetcode109.obj: Leetcode109.cpp.obj
 
 .PHONY : Leetcode109.obj
@@ -1302,6 +1275,60 @@ Leetcode405.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Leetcode405.cpp.s
 .PHONY : Leetcode405.cpp.s
 
+Leetcode406.obj: Leetcode406.cpp.obj
+
+.PHONY : Leetcode406.obj
+
+# target to build an object file
+Leetcode406.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Leetcode406.cpp.obj
+.PHONY : Leetcode406.cpp.obj
+
+Leetcode406.i: Leetcode406.cpp.i
+
+.PHONY : Leetcode406.i
+
+# target to preprocess a source file
+Leetcode406.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Leetcode406.cpp.i
+.PHONY : Leetcode406.cpp.i
+
+Leetcode406.s: Leetcode406.cpp.s
+
+.PHONY : Leetcode406.s
+
+# target to generate assembly for a file
+Leetcode406.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Leetcode406.cpp.s
+.PHONY : Leetcode406.cpp.s
+
+Leetcode409.obj: Leetcode409.cpp.obj
+
+.PHONY : Leetcode409.obj
+
+# target to build an object file
+Leetcode409.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Leetcode409.cpp.obj
+.PHONY : Leetcode409.cpp.obj
+
+Leetcode409.i: Leetcode409.cpp.i
+
+.PHONY : Leetcode409.i
+
+# target to preprocess a source file
+Leetcode409.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Leetcode409.cpp.i
+.PHONY : Leetcode409.cpp.i
+
+Leetcode409.s: Leetcode409.cpp.s
+
+.PHONY : Leetcode409.s
+
+# target to generate assembly for a file
+Leetcode409.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Leetcode409.cpp.s
+.PHONY : Leetcode409.cpp.s
+
 Leetcode85.obj: Leetcode85.cpp.obj
 
 .PHONY : Leetcode85.obj
@@ -1908,9 +1935,6 @@ help:
 	@echo ... BIT.obj
 	@echo ... BIT.i
 	@echo ... BIT.s
-	@echo ... Leetcode106.obj
-	@echo ... Leetcode106.i
-	@echo ... Leetcode106.s
 	@echo ... Leetcode109.obj
 	@echo ... Leetcode109.i
 	@echo ... Leetcode109.s
@@ -2034,6 +2058,12 @@ help:
 	@echo ... Leetcode405.obj
 	@echo ... Leetcode405.i
 	@echo ... Leetcode405.s
+	@echo ... Leetcode406.obj
+	@echo ... Leetcode406.i
+	@echo ... Leetcode406.s
+	@echo ... Leetcode409.obj
+	@echo ... Leetcode409.i
+	@echo ... Leetcode409.s
 	@echo ... Leetcode85.obj
 	@echo ... Leetcode85.i
 	@echo ... Leetcode85.s
