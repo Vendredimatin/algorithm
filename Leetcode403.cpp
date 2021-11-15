@@ -39,7 +39,7 @@ bool canCross(vector<int>& stones) {
 }
 
 
-int main(){
+int main403(){
     vector<int> stones({0,1,2,3,4,8,9,11});
     cout << canCross(stones);
     return 0;

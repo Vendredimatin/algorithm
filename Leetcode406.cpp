@@ -75,7 +75,7 @@ vector<vector<int>> reconstructQueue1(vector<vector<int>>& people) {
     return people;
 }
 
-int main(){
+int main406(){
     vector<vector<int>> people;
     /*people.push_back({7,0});
     people.push_back({4,4});
