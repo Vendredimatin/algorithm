@@ -1383,6 +1383,60 @@ Leetcode416.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Leetcode416.cpp.s
 .PHONY : Leetcode416.cpp.s
 
+Leetcode435.obj: Leetcode435.cpp.obj
+
+.PHONY : Leetcode435.obj
+
+# target to build an object file
+Leetcode435.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Leetcode435.cpp.obj
+.PHONY : Leetcode435.cpp.obj
+
+Leetcode435.i: Leetcode435.cpp.i
+
+.PHONY : Leetcode435.i
+
+# target to preprocess a source file
+Leetcode435.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Leetcode435.cpp.i
+.PHONY : Leetcode435.cpp.i
+
+Leetcode435.s: Leetcode435.cpp.s
+
+.PHONY : Leetcode435.s
+
+# target to generate assembly for a file
+Leetcode435.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Leetcode435.cpp.s
+.PHONY : Leetcode435.cpp.s
+
+Leetcode438.obj: Leetcode438.cpp.obj
+
+.PHONY : Leetcode438.obj
+
+# target to build an object file
+Leetcode438.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Leetcode438.cpp.obj
+.PHONY : Leetcode438.cpp.obj
+
+Leetcode438.i: Leetcode438.cpp.i
+
+.PHONY : Leetcode438.i
+
+# target to preprocess a source file
+Leetcode438.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Leetcode438.cpp.i
+.PHONY : Leetcode438.cpp.i
+
+Leetcode438.s: Leetcode438.cpp.s
+
+.PHONY : Leetcode438.s
+
+# target to generate assembly for a file
+Leetcode438.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/Leetcode438.cpp.s
+.PHONY : Leetcode438.cpp.s
+
 Leetcode85.obj: Leetcode85.cpp.obj
 
 .PHONY : Leetcode85.obj
@@ -2124,6 +2178,12 @@ help:
 	@echo ... Leetcode416.obj
 	@echo ... Leetcode416.i
 	@echo ... Leetcode416.s
+	@echo ... Leetcode435.obj
+	@echo ... Leetcode435.i
+	@echo ... Leetcode435.s
+	@echo ... Leetcode438.obj
+	@echo ... Leetcode438.i
+	@echo ... Leetcode438.s
 	@echo ... Leetcode85.obj
 	@echo ... Leetcode85.i
 	@echo ... Leetcode85.s
