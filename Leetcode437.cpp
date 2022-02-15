@@ -18,7 +18,7 @@ struct TreeNode {
     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
 };
 
-int ans = 0;
+int ans437 = 0;
 
 /**
  * 或者可以用一个map记录到每一个节点的前缀和，然后targetSum - curSum是否存在，用two sum的思想来求解，来找想要求的和是否存在
@@ -32,10 +32,10 @@ void helper(TreeNode* root, int targetSum, vector<int> sums){
     sums.push_back(sums.back() + root->val);
 
     for (int i = sums.size()-1; i >= 0; --i) {
-        if (sums.back() - sums[i] == targetSum) ans++;
+        if (sums.back() - sums[i] == targetSum) ans437++;
     }
 
-    if (sums.back() == targetSum)   ans++;
+    if (sums.back() == targetSum)   ans437++;
 
     helper(root->left, targetSum, sums);
     helper(root->right, targetSum, sums);
@@ -46,10 +46,10 @@ int pathSum(TreeNode* root, int targetSum) {
     sums.push_back(root->val);
     helper(root->left, targetSum, sums);
     helper(root->right, targetSum, sums);
-    return ans;
+    return ans437;
 }
 
-int main(){
+int main437(){
     TreeNode* node1 = new TreeNode(3);
     TreeNode* node2 = new TreeNode(-2);
     TreeNode* node3 = new TreeNode(1);
